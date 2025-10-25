@@ -3,7 +3,7 @@
 
 ![NexusBot](nextjs-rag-chatbot/public/image.png)
 
-NexusBot est un template minimaliste et prêt à l’emploi d’un chatbot Next.js intégrant un pipeline RAG (Retrieval Augmented Generation) avec Supabase/pgvector pour la recherche de similarité, et OpenRouter pour l’accès flexible aux modèles de langage (GPT, Claude, Llama, etc.).
+NexusBot est un template minimaliste et prêt à l’emploi d’un chatbot Next.js intégrant un pipeline RAG (Retrieval Augmented Generation) avec Supabase/pgvector pour la recherche de similarité, et OpenRouter pour l’accès flexible aux modèles de langage (GPT, Claude, Llama, etc).
 
 > Repo structure: l’application Next.js vit dans le dossier `nextjs-rag-chatbot/`.
 
