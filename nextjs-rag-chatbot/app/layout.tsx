@@ -28,6 +28,14 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         {children}
+        <a
+          href="https://www.linkedin.com/in/k%C3%A9vyn-odjo-218624244"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="fixed bottom-4 right-4 text-xs md:text-sm text-zinc-500 hover:text-zinc-900 dark:text-zinc-400 dark:hover:text-zinc-50 opacity-80 hover:opacity-100 transition"
+        >
+          By Kévyn ODJO
+        </a>
       </body>
     </html>
   );
