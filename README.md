@@ -1,9 +1,7 @@
 # NexusBot — Template Chatbot Next.js RAG (Supabase + OpenRouter)
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-<video src="nextjs-rag-chatbot/public/Create-Next-App.mp4" controls loop muted playsinline style="width:100%;max-width:720px;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,0.15);">
-	Votre navigateur ne supporte pas la lecture vidéo intégrée. Regardez la démonstration dans `nextjs-rag-chatbot/public/Create-Next-App.mp4`.
-</video>
+https://github.com/user-attachments/assets/331edac8-d539-464f-a934-4875eacbe281
 
 NexusBot est un template minimaliste et prêt à l’emploi d’un chatbot Next.js intégrant un pipeline RAG (Retrieval Augmented Generation) avec Supabase/pgvector pour la recherche de similarité, et OpenRouter pour l’accès flexible aux modèles de langage (GPT, Claude, Llama, etc).
 
